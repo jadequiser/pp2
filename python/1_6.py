@@ -1,0 +1,6 @@
+a=(input())
+n=int(a)
+m=str(n+1)
+k=str(n-1)
+print("The next number for the number "+a+" is "+m+".")
+print("The previous number for the number "+a+ " is "+k+".")
